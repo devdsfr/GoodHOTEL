@@ -1,0 +1,20 @@
+.row {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: 87.5em;
+}
+div.menu-info{
+    color: 37373737;
+    font:  16px jannon10pro;
+    margin: 24px 0px 0px;
+    padding: 0px 15px;
+}
+a.hotel{
+    color: white;
+    font: 12px;
+    padding: 0px 4px;
+    
+}
